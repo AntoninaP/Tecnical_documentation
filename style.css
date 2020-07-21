@@ -1,0 +1,79 @@
+@media (min-width: 600em) and (max-width: 800em){
+
+}
+
+#main-doc{
+    
+    position: absolute;
+    display: block;
+    width: auto;
+    height: auto;
+    margin-left: 330px;
+    margin-top: -0.5em;
+    background-image: url(https://ramki-vsem.ru/fon/rozovyj-fon31.jpg);
+    font-family: 'Courier New', Courier, monospace;
+    border: 0.1em palevioletred solid;
+    border-radius: 0.3em;
+    }
+
+.main-section{
+    margin: 1.9em 2em 2em ;
+    text-align: justify;
+    line-height: 1.3em;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9em;
+    }
+
+#navbar{
+position: fixed;
+top: 0;
+left: 0;
+display: block;
+width: 300px;
+height: 100%;
+margin-right: 1em;
+padding: 1.5em 1em 1em 1em;
+border: rgba(155, 23, 51, 0.699) solid 0.2em;
+border-radius: 0.5em;
+font-family: 'Courier New', Courier, monospace;
+font-size: 1em;
+line-height: 1.5em;
+
+}
+
+.nav-link1{
+    height: 3em;
+    border-radius: 0.5em;
+    background-color: rgba(155, 23, 51, 0.699);
+    padding-left: 1em;
+    padding-top: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    
+}
+
+li{
+    list-style-type: none;
+}
+
+ul{
+    padding-left: 0;
+    margin-left: 0;
+}
+
+a{
+    color:white
+}
+
+header{
+    color: rgb(78, 3, 19);
+    font-weight: bolder;
+    font-size: 1.8em;
+}
+
+code{
+    background-color: lightgrey;
+    border-radius: 0.3em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    height: 1em;
+}
